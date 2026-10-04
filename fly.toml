@@ -1,0 +1,64 @@
+# Configuración de Fly.io.
+#
+# EL BOT NO ABRE UN PUERTO. `src/index.ts` no levanta ningún servidor HTTP: solo
+# se conecta a Discord. Por eso este fichero NO tiene bloque `[http_service]`.
+#
+# No es un descuido. En Fly, una app sin `[http_service]` corre en modo proceso:
+# sin IP pública, sin enrutado, sin certificados y sin pagar el proxy. Es
+# exactamente lo que necesita un bot, y declararlo solo añadiría una dirección
+# web que nadie va a visitar.
+#
+# El otro efecto útil: sin `[http_service]` no aplica `auto_stop_machines`. Fly no
+# suspende una máquina que no está esperando tráfico, que es el problema clásico de
+# los bots en Fly. Ese ajuste no hace falta porque no hay nada que ajustar.
+
+app = "digimon-mmo"
+primary_region = "mad"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # Se resuelve contra el directorio de trabajo, que en la imagen es `/app`.
+  # Por eso `./data/digimon.db` cae DENTRO del volumen montado abajo y no hace
+  # falta tocar `src/config.ts`.
+  #
+  # Si se cambiara esta ruta a algo fuera de `/app/data`, la base quedaría en el
+  # sistema de archivos efímero de la máquina y se perdería en cada reinicio.
+  DATABASE_PATH = "./data/digimon.db"
+
+# --- EL VOLUMEN ---
+#
+# Sin esto, cada `fly deploy` deja el bot sin base de datos y todos los jugadores
+# pierden su colección. Es el punto de este bloque entero.
+#
+# Los volúmenes de Fly son por aplicación y por región: se crea una vez con
+#     fly volumes create digimon_data --region mad --size 1
+# y después sobrevive a los despliegues. Solo sobrevive a la región: si el volumen
+# está en `mad` y la app arranca en `lhr`, no lo ve.
+[[mounts]]
+  source = "digimon_data"
+  destination = "/app/data"
+
+[vm]
+  # 512 MB alcanza de sobra: el catálogo son 3,4 MB y SQLite trabaja en memoria.
+  # shared-cpu evita que un pico de tráfico de Discord cobre consumo compartido.
+  size = "shared-cpu-1x"
+  memory = "512mb"
+
+# El comando de arranque está en el `CMD` del Dockerfile, y NO se repite aquí.
+#
+# Es tentador ponerlo en `[processes]` para verlo todo en un fichero, pero Fly
+# arrancaría entonces los dos: el del `CMD` y el del bloque. Dos procesos del bot
+# significan dos conexiones a Discord y dos escritores sobre el mismo archivo
+# SQLite, que es exactamente el tipo de fallo que aparece dos semanas después como
+# «la base se corrompió sola».
+#
+# El arranque vive en un solo sitio: el `CMD` del Dockerfile.
+#
+# Cierre ordenado. Fly avisa con esta señal y espera hasta quince segundos.
+#
+# Importa el orden: si el socket de Discord se cerrara antes que la base, el bot
+# podría cortar una escritura a mitad y dejar el WAL inconsistente.
+kill_signal = "SIGTERM"
+kill_timeout = "15s"

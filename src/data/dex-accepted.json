@@ -1,0 +1,237 @@
+{
+ "generado": "2026-10-03T21:01:05.940Z",
+ "nota": "Divergencias entre el catálogo del juego y el canon de la wiki que se han revisado y aceptado a mano. `check:dex` las da por conocidas y solo señala las nuevas. Bórralas si el cambio de una de las dos partes tiene que volver a revisarse.",
+ "divergencias": [
+  {
+   "speciesKey": "agumon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "biyomon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "gatomon",
+   "kind": "nivel-difiere",
+   "game": "inicial",
+   "source": "Champion",
+   "motivo": "Diferencia de escalonado. El juego agrupa algunos Rookie con los Champion para que las primeras zonas no se acaben en el primer nivel."
+  },
+  {
+   "speciesKey": "goburimon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Virus",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "goburimon",
+   "kind": "nivel-difiere",
+   "game": "novato",
+   "source": "Rookie",
+   "motivo": "El juego tiene una banda `novato` entre In-Training y Rookie que el canon no tiene. Es una decisión de progresión propia: agrupa a los Digimon más jóvenes en una sola pantalla de mapa."
+  },
+  {
+   "speciesKey": "kunemon",
+   "kind": "atributo-difiere",
+   "game": "vacuna",
+   "source": "Virus",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "kunemon",
+   "kind": "nivel-difiere",
+   "game": "novato",
+   "source": "Rookie",
+   "motivo": "El juego tiene una banda `novato` entre In-Training y Rookie que el canon no tiene. Es una decisión de progresión propia: agrupa a los Digimon más jóvenes en una sola pantalla de mapa."
+  },
+  {
+   "speciesKey": "betamon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Virus",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "betamon",
+   "kind": "nivel-difiere",
+   "game": "novato",
+   "source": "Rookie",
+   "motivo": "El juego tiene una banda `novato` entre In-Training y Rookie que el canon no tiene. Es una decisión de progresión propia: agrupa a los Digimon más jóvenes en una sola pantalla de mapa."
+  },
+  {
+   "speciesKey": "veldmon",
+   "kind": "sin-ficha",
+   "game": "no se pudo importar",
+   "source": "",
+   "motivo": "No existe página con este nombre en la wiki, ni con las grafías cercanas que se buscaron (Veldirimon, Velimon, Vermilimon, Vademon: ninguna). Puede ser un nombre inventado para el juego o una errata; no se adivina un mapeo porque meter los datos de otra especie es peor que dejar el hueco. Requiere decidir: renombrar la especie o mantenerla sin ficha."
+  },
+  {
+   "speciesKey": "demimeramon",
+   "kind": "atributo-difiere",
+   "game": "vacuna",
+   "source": "None",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "demimeramon",
+   "kind": "nivel-difiere",
+   "game": "novato",
+   "source": "In-Training",
+   "motivo": "El juego tiene una banda `novato` entre In-Training y Rookie que el canon no tiene. Es una decisión de progresión propia: agrupa a los Digimon más jóvenes en una sola pantalla de mapa."
+  },
+  {
+   "speciesKey": "greymon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "birdramon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "metalgreymon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "garudamon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "ogremon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Virus",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "ogremon",
+   "kind": "nivel-difiere",
+   "game": "ultimate",
+   "source": "Champion",
+   "motivo": "El juego lo cuenta como megadigimon y el canon como Champion: es alcance de contenido, no un error. El árbol evolutivo del juego tiene una rama más corta de la que tiene el canon."
+  },
+  {
+   "speciesKey": "valemon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Free",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "valemon",
+   "kind": "nivel-difiere",
+   "game": "mega",
+   "source": "Rookie",
+   "motivo": "Megadigimon en el juego y Ultimate en el canon. Decisión de progresión: en el juego son el final de su rama, y bajarlos los dejaría sin destino y sin recompensa."
+  },
+  {
+   "speciesKey": "kimeramon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Data",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "kimeramon",
+   "kind": "nivel-difiere",
+   "game": "mega",
+   "source": "Ultimate",
+   "motivo": "Megadigimon en el juego y Ultimate en el canon. Decisión de progresión: en el juego son el final de su rama, y bajarlos los dejaría sin destino y sin recompensa."
+  },
+  {
+   "speciesKey": "groundramon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Virus",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "groundramon",
+   "kind": "nivel-difiere",
+   "game": "mega",
+   "source": "Ultimate",
+   "motivo": "Megadigimon en el juego y Ultimate en el canon. Decisión de progresión: en el juego son el final de su rama, y bajarlos los dejaría sin destino y sin recompensa."
+  },
+  {
+   "speciesKey": "mastertyrannomon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "mastertyrannomon",
+   "kind": "nivel-difiere",
+   "game": "mega",
+   "source": "Ultimate",
+   "motivo": "Megadigimon en el juego y Ultimate en el canon. Decisión de progresión: en el juego son el final de su rama, y bajarlos los dejaría sin destino y sin recompensa."
+  },
+  {
+   "speciesKey": "skullgreymon",
+   "kind": "nivel-difiere",
+   "game": "mega",
+   "source": "Ultimate",
+   "motivo": "Megadigimon en el juego y Ultimate en el canon. Decisión de progresión: en el juego son el final de su rama, y bajarlos los dejaría sin destino y sin recompensa."
+  },
+  {
+   "speciesKey": "cherubimon",
+   "kind": "nivel-difiere",
+   "game": "ultimate",
+   "source": "Mega",
+   "motivo": "El juego lo cuenta como megadigimon y el canon como Champion: es alcance de contenido, no un error. El árbol evolutivo del juego tiene una rama más corta de la que tiene el canon."
+  },
+  {
+   "speciesKey": "phoenixmon",
+   "kind": "atributo-difiere",
+   "game": "datos",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "seraphimon",
+   "kind": "atributo-difiere",
+   "game": "virus",
+   "source": "Vaccine",
+   "motivo": "La línea clásica de Adventure es Virus en el juego y Vaccine en el canon. Es una decisión de diseño: invertir el triángulo hace que conocer el canon no dé ventaja, de modo que el juego no premia memorizar el triángulo real. El combate está afinado sobre estos valores, así que cambiarlos no es corregir datos: es reequilibrar."
+  },
+  {
+   "speciesKey": "diaboromon",
+   "kind": "valor-fuera-de-taxonomia",
+   "game": "datos",
+   "source": "Unidentified",
+   "motivo": "La ficha de la wiki pone `|attribute=Unidentified`, que no es uno de sus propios siete valores: para Diaboromon el canon no revela el atributo. El importador no lo convierte a nada porque no hay equivalencia fiable; guarda el texto crudo y deja el campo vacío a propósito. En el juego sigue siendo `datos`."
+  },
+  {
+   "speciesKey": "paulmon",
+   "kind": "nivel-difiere",
+   "game": "novato",
+   "source": "Rookie",
+   "motivo": "Palmon es Rookie en el canon y `novato` en el juego, que es la banda del proyecto para los Rookie que todavia comparten pantalla con los In-Training. La diferencia es de progresion, no un error de datos. La clave se llama `paulmon` por historia: el nombre del Digimon estaba mal escrito como `Paulmon` y se corrigio sin cambiar la clave, para no obligar a migrar los Digimon que los jugadores ya tienen."
+  },
+  {
+   "speciesKey": "pabumon",
+   "kind": "atributo-difiere",
+   "game": "vacuna",
+   "source": "None (con attribute2=Data)",
+   "motivo": "La fuente NO declara atributo para Pabumon: `|attribute=None` es una ausencia, no un valor. El juego le pone Vacuna porque es un starter y los seis starters tienen que cubrir las tres esquinas del triangulo, que es lo que comprueba `combat.test.ts`. La lectura mas fiel seria `datos`, que es lo que dice su `attribute2` y a donde evoluciona (Palmon); queda anotado por si se quiere cambiar. Pabumon se anadio al juego al corregir el nombre de Palmon, que estaba mal escrito como `Paulmon` y en la banda equivocada."
+  }
+ ]
+}

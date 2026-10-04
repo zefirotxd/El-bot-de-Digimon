@@ -1,0 +1,23 @@
+node_modules/
+dist/
+
+# Con barra inicial: SOLO el directorio `data` de la raíz, que es donde vive la
+# base de datos SQLite.
+#
+# Sin la barra, `data/` coincide con cualquier directorio llamado `data` a
+# cualquier nivel, y eso se llevaba también `src/data/`. Ahí están el catálogo de
+# 1384 especies (`catalogo.json`), el bestiario de referencia (`dex.json`) y el
+# registro de divergencias aceptadas. Sin ellos el bot arranca y muere con
+# «Falta src/data/catalogo.json».
+/data/
+
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/
+.idea/

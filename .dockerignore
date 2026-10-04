@@ -1,0 +1,39 @@
+# Lo que NO entra en la imagen.
+#
+# El objetivo es que la imagen no crezca con cosas que se regeneran o que son
+# datos de ESTA máquina. Todo lo que el bot necesita en runtime está explícitamente
+# en el `COPY` del Dockerfile, así que lo que se excluya aquí solo puede salir mal
+# por olvido, no por peso.
+
+# Dependencias: se instalan dentro de la imagen con `npm ci`. Copiar las de
+# fuera metería los binarios nativos compilados para Windows, que no valen en
+# Linux y hacen que `better-sqlite3` falle con un error incomprensible.
+node_modules/
+
+# La base de datos de esta máquina. En Fly vive en un volumen montado, no en la
+# imagen: esto es solo el development local.
+/data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Secretos. En Fly van como `fly secrets`, nunca en la imagen.
+.env
+.env.env
+.env.*
+!.env.example
+
+# Historial de git: la imagen se despliega por `fly deploy`, no por clonar.
+.git/
+.gitignore
+
+# Ruido de trabajo.
+*.log
+blocks/
+*.tmp
+t.txt
+out.txt
+.DS_Store
+.vscode/
+.idea/
