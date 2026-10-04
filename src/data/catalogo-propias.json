@@ -1,0 +1,39 @@
+{
+ "_nota": "Especies que existen en el juego pero NO en el universo Digimon documentado. Cada entrada dice por qué está aquí. Las escribe a mano quien decide el contenido, y `check:catalogo` las comprueba.",
+ "_por_que_existe_este_fichero": "Sin esto, una especie inventada es indistinguible de un hueco del catálogo. La auditoría ve que una especie no tiene referencia y no sabe si se le olvidó importar una página o es que el nombre se lo inventó alguien. Con la lista, la diferencia queda escrita: estas cuatro son contenido propio del juego y lo declaran.",
+ "_regla": "Una especie propia puede parecerse a un Digimon real, pero no puede ocupar su sitio: no se le da la imagen de otro, ni su ficha, ni su nivel oficial. Y ha de declarar la especie real en la que se inspira, para que se pueda rastrear de dónde salió.",
+ "especies": [
+  {
+   "clave": "goburimon",
+   "nombre": "Goburimon",
+   "inspiradoEn": "Gabumon",
+   "motivo": "Duende de las profundidades con capa de roca, de tipo tierra. Se concibió para las cuevas inferiores y su nombre se parece a Gabumon por sonoridad, no por genealogía: no es su descendiente ni su antecesor.",
+   "atributoOficial": null,
+   "imagen": null
+  },
+  {
+   "clave": "veldmon",
+   "nombre": "Veldmon",
+   "inspiradoEn": null,
+   "motivo": "Demonio menor que absorbe el alma de las estrellas caídas. Se ideó como enemigo de descarte para las zonas de oscuridad. No tiene un antecesor oficial: es el primero de su línea, que es el caso normal en un juego y el raro en el canon.",
+   "atributoOficial": null,
+   "imagen": null
+  },
+  {
+   "clave": "valemon",
+   "nombre": "Valemon",
+   "inspiradoEn": "Veemon",
+   "motivo": "Forma alternativa de Veemon, dorada y luminosa. El nombre está muy cerca del de Veemon a propósito, y por eso conviene tenerla en esta lista: si algún día desaparece de aquí, lo que se habrá perdido es la explicación de por qué dos especies del juego se llaman casi igual.",
+   "atributoOficial": null,
+   "imagen": null
+  },
+  {
+   "clave": "holyangemon",
+   "nombre": "HolyAngemon",
+   "inspiradoEn": "Angemon",
+   "motivo": "Evolución límite de Angemon, tomada de las que aparecen en el canon pero sin ficha propia en la fuente. Su nivel, su tipo y su atributo son decisiones del juego, y por eso no tienen nada oficial que contradecir.",
+   "atributoOficial": null,
+   "imagen": null
+  }
+ ]
+}

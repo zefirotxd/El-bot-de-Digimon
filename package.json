@@ -1,0 +1,51 @@
+{
+  "name": "digimon-mmo",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "register": "tsx src/scripts/registerCommands.ts",
+    "test": "tsx tools/run-tests.ts",
+    "balance": "tsx tools/balance.ts",
+    "balance:turnos": "tsx tools/balance-escala.ts",
+    "import:dex": "tsx tools/import-dex.ts",
+    "check:ui": "tsx tools/check-ui.ts",
+    "check:db": "tsx tools/check-db.ts",
+    "check:shop": "tsx tools/check-shop.ts",
+    "check:rival": "tsx tools/check-rival.ts",
+    "check:gear": "tsx tools/check-gear.ts",
+    "check:pvp": "tsx tools/check-pvp.ts",
+    "check:evolution": "tsx tools/check-evolution.ts",
+    "check:dungeon": "tsx tools/check-dungeon.ts",
+    "check:missions": "tsx tools/check-missions.ts",
+    "check:pantallas": "tsx tools/check-ui-all.ts",
+    "check:dex": "tsx tools/check-dex.ts",
+    "check:combate": "tsx tools/check-combat-ui.ts",
+    "check:caracteres": "node tools/scan-chars.mjs",
+    "check:todo": "node tools/check-all.mjs",
+    "balance:real": "tsx tools/balance-real-escala.ts",
+    "check:combate2": "tsx tools/check-combate2.ts",
+    "check:mapa": "tsx tools/check-mapa.ts",
+    "check:mazmorra": "tsx tools/check-mazmorra.ts",
+    "check:finales": "node tools/normaliza-finales.cjs --check",
+    "check:catalogo": "tsx tools/check-catalogo.ts",
+    "check:despliegue": "tsx tools/check-despliegue.ts"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

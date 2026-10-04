@@ -1,0 +1,257 @@
+{
+ "generado": "2026-10-04T01:54:58.647Z",
+ "nota": "Cruce entre las claves jugables de `species.ts` y las fichas de `catalogo.json`. Lo escribe `tools/marca-activables.ts`; no se edita a mano.",
+ "comoLeerlo": "Una especie del juego es activable si su clave aparece en `especies`. El resto del catálogo existe y se muestra, pero no se puede capturar ni pelear.",
+ "especies": [
+  {
+   "juego": "hagurumon",
+   "catalogo": "hagurumon",
+   "nombre": "Hagurumon"
+  },
+  {
+   "juego": "liollmon",
+   "catalogo": "liollmon",
+   "nombre": "Liollmon"
+  },
+  {
+   "juego": "floramon",
+   "catalogo": "floramon",
+   "nombre": "Floramon"
+  },
+  {
+   "juego": "tapirmon",
+   "catalogo": "tapirmon",
+   "nombre": "Tapirmon"
+  },
+  {
+   "juego": "otamamon",
+   "catalogo": "otamamon",
+   "nombre": "Otamamon"
+  },
+  {
+   "juego": "pteromon",
+   "catalogo": "pteromon",
+   "nombre": "Pteromon"
+  },
+  {
+   "juego": "guardromon",
+   "catalogo": "guardromon",
+   "nombre": "Guardromon"
+  },
+  {
+   "juego": "liamon",
+   "catalogo": "liamon",
+   "nombre": "Liamon"
+  },
+  {
+   "juego": "sunflowmon",
+   "catalogo": "sunflowmon",
+   "nombre": "Sunflowmon"
+  },
+  {
+   "juego": "monochromon",
+   "catalogo": "monochromon",
+   "nombre": "Monochromon"
+  },
+  {
+   "juego": "gekomon",
+   "catalogo": "gekomon",
+   "nombre": "Gekomon"
+  },
+  {
+   "juego": "zephagamon",
+   "catalogo": "zephagamon",
+   "nombre": "Zephagamon"
+  },
+  {
+   "juego": "agumon",
+   "catalogo": "agumon",
+   "nombre": "Agumon"
+  },
+  {
+   "juego": "gabumon",
+   "catalogo": "gabumon",
+   "nombre": "Gabumon"
+  },
+  {
+   "juego": "biyomon",
+   "catalogo": "biyomon",
+   "nombre": "Biyomon"
+  },
+  {
+   "juego": "paulmon",
+   "catalogo": "palmon",
+   "nombre": "Palmon"
+  },
+  {
+   "juego": "pabumon",
+   "catalogo": "pabumon",
+   "nombre": "Pabumon"
+  },
+  {
+   "juego": "gatomon",
+   "catalogo": "gatomon",
+   "nombre": "Gatomon"
+  },
+  {
+   "juego": "guilmon",
+   "catalogo": "guilmon",
+   "nombre": "Guilmon"
+  },
+  {
+   "juego": "kunemon",
+   "catalogo": "kunemon",
+   "nombre": "Kunemon"
+  },
+  {
+   "juego": "betamon",
+   "catalogo": "betamon",
+   "nombre": "Betamon"
+  },
+  {
+   "juego": "demimeramon",
+   "catalogo": "demimeramon",
+   "nombre": "DemiMeramon"
+  },
+  {
+   "juego": "greymon",
+   "catalogo": "greymon",
+   "nombre": "Greymon"
+  },
+  {
+   "juego": "garurumon",
+   "catalogo": "garurumon",
+   "nombre": "Garurumon"
+  },
+  {
+   "juego": "birdramon",
+   "catalogo": "birdramon",
+   "nombre": "Birdramon"
+  },
+  {
+   "juego": "angemon",
+   "catalogo": "angemon",
+   "nombre": "Angemon"
+  },
+  {
+   "juego": "togemon",
+   "catalogo": "togemon",
+   "nombre": "Togemon"
+  },
+  {
+   "juego": "growlmon",
+   "catalogo": "growlmon",
+   "nombre": "Growlmon"
+  },
+  {
+   "juego": "metalgreymon",
+   "catalogo": "metalgreymon_2010_anime",
+   "nombre": "MetalGreymon"
+  },
+  {
+   "juego": "weregarurumon",
+   "catalogo": "weregarurumon",
+   "nombre": "WereGarurumon"
+  },
+  {
+   "juego": "garudamon",
+   "catalogo": "garudamon",
+   "nombre": "Garudamon"
+  },
+  {
+   "juego": "wargrowlmon",
+   "catalogo": "wargrowlmon",
+   "nombre": "WarGrowlmon"
+  },
+  {
+   "juego": "ogremon",
+   "catalogo": "ogremon",
+   "nombre": "Ogremon"
+  },
+  {
+   "juego": "wargreymon",
+   "catalogo": "wargreymon",
+   "nombre": "WarGreymon"
+  },
+  {
+   "juego": "metalgarurumon",
+   "catalogo": "metalgarurumon",
+   "nombre": "MetalGarurumon"
+  },
+  {
+   "juego": "kimeramon",
+   "catalogo": "kimeramon",
+   "nombre": "Kimeramon"
+  },
+  {
+   "juego": "magnadramon",
+   "catalogo": "magnadramon",
+   "nombre": "Magnadramon"
+  },
+  {
+   "juego": "groundramon",
+   "catalogo": "groundramon",
+   "nombre": "Groundramon"
+  },
+  {
+   "juego": "mastertyrannomon",
+   "catalogo": "mastertyrannomon",
+   "nombre": "MasterTyrannomon"
+  },
+  {
+   "juego": "skullgreymon",
+   "catalogo": "skullgreymon",
+   "nombre": "SkullGreymon"
+  },
+  {
+   "juego": "cherubimon",
+   "catalogo": "cherubimon_evil",
+   "nombre": "Cherubimon"
+  },
+  {
+   "juego": "diaboromon",
+   "catalogo": "diaboromon",
+   "nombre": "Diaboromon"
+  },
+  {
+   "juego": "phoenixmon",
+   "catalogo": "phoenixmon",
+   "nombre": "Phoenixmon"
+  },
+  {
+   "juego": "seraphimon",
+   "catalogo": "seraphimon",
+   "nombre": "Seraphimon"
+  }
+ ],
+ "sinCruce": [
+  {
+   "juego": "goburimon",
+   "nombre": "Goburimon",
+   "propia": true,
+   "inspiradoEn": "Gabumon",
+   "motivo": "Duende de las profundidades con capa de roca, de tipo tierra. Se concibió para las cuevas inferiores y su nombre se parece a Gabumon por sonoridad, no por genealogía: no es su descendiente ni su antecesor."
+  },
+  {
+   "juego": "veldmon",
+   "nombre": "Veldmon",
+   "propia": true,
+   "inspiradoEn": null,
+   "motivo": "Demonio menor que absorbe el alma de las estrellas caídas. Se ideó como enemigo de descarte para las zonas de oscuridad. No tiene un antecesor oficial: es el primero de su línea, que es el caso normal en un juego y el raro en el canon."
+  },
+  {
+   "juego": "holyangemon",
+   "nombre": "HolyAngemon",
+   "propia": true,
+   "inspiradoEn": "Angemon",
+   "motivo": "Evolución límite de Angemon, tomada de las que aparecen en el canon pero sin ficha propia en la fuente. Su nivel, su tipo y su atributo son decisiones del juego, y por eso no tienen nada oficial que contradecir."
+  },
+  {
+   "juego": "valemon",
+   "nombre": "Valemon",
+   "propia": true,
+   "inspiradoEn": "Veemon",
+   "motivo": "Forma alternativa de Veemon, dorada y luminosa. El nombre está muy cerca del de Veemon a propósito, y por eso conviene tenerla en esta lista: si algún día desaparece de aquí, lo que se habrá perdido es la explicación de por qué dos especies del juego se llaman casi igual."
+  }
+ ]
+}

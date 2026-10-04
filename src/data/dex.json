@@ -1,0 +1,1471 @@
+{
+  "source": {
+    "name": "Digimon Fandom (MediaWiki API)",
+    "api": "https://digimon.fandom.com/api.php",
+    "notice": "Contenido bajo CC BY-SA. Las imágenes del infobox son material de uso justo del wiki: se guardan como REFERENCIA y no se redistribuyen. El bot enlaza, no rehostea."
+  },
+  "generatedAt": "2026-10-04T01:54:57.138Z",
+  "entries": [
+    {
+      "speciesKey": "hagurumon",
+      "name": "Hagurumon",
+      "level": "Rookie",
+      "type": "Machine",
+      "attribute": "Virus",
+      "attribute2": "Vaccine",
+      "raw": {
+        "level": "Rookie",
+        "type": "Machine",
+        "attribute": "Virus",
+        "attribute2": "Vaccine"
+      },
+      "families": [
+        "Metal Empire"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/e/e6/Hagurumon_b.jpg/revision/latest?cb=20090130052209",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/e/e6/Hagurumon_b.jpg/revision/latest?cb=20090130052209",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Hagurumon",
+        "url": "https://digimon.fandom.com/wiki/Hagurumon",
+        "fetchedAt": "2026-10-04T01:53:49.160Z"
+      }
+    },
+    {
+      "speciesKey": "liollmon",
+      "name": "Liollmon",
+      "level": "Rookie",
+      "type": "Holy Beast",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Holy Beast",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/4/48/Liollmon_b.jpg/revision/latest?cb=20171127122034",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/4/48/Liollmon_b.jpg/revision/latest?cb=20171127122034",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Liollmon",
+        "url": "https://digimon.fandom.com/wiki/Liollmon",
+        "fetchedAt": "2026-10-04T01:53:50.687Z"
+      }
+    },
+    {
+      "speciesKey": "floramon",
+      "name": "Floramon",
+      "level": "Rookie",
+      "type": "Vegetation",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Vegetation",
+        "attribute": "Data"
+      },
+      "families": [
+        "Wind Guardians",
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/a/a1/Floramon_b.jpg/revision/latest?cb=20101126214135",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/a/a1/Floramon_b.jpg/revision/latest?cb=20101126214135",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Floramon",
+        "url": "https://digimon.fandom.com/wiki/Floramon",
+        "fetchedAt": "2026-10-04T01:53:52.110Z"
+      }
+    },
+    {
+      "speciesKey": "tapirmon",
+      "name": "Tapirmon",
+      "level": "Rookie",
+      "type": "Holy Beast",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Holy Beast",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Nightmare Soldiers",
+        "Nature Spirits",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/7/7d/Tapirmon_b.jpg/revision/latest?cb=20101015140831",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/7/7d/Tapirmon_b.jpg/revision/latest?cb=20101015140831",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Tapirmon",
+        "url": "https://digimon.fandom.com/wiki/Tapirmon",
+        "fetchedAt": "2026-10-04T01:53:53.505Z"
+      }
+    },
+    {
+      "speciesKey": "otamamon",
+      "name": "Otamamon",
+      "level": "Rookie",
+      "type": "Amphibian",
+      "attribute": "Virus",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Rookie",
+        "type": "Amphibian",
+        "attribute": "Virus",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nature Spirits",
+        "Deep Savers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/0/0a/Otamamon_b.jpg/revision/latest?cb=20090208040237",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/0/0a/Otamamon_b.jpg/revision/latest?cb=20090208040237",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Otamamon",
+        "url": "https://digimon.fandom.com/wiki/Otamamon",
+        "fetchedAt": "2026-10-04T01:53:54.979Z"
+      }
+    },
+    {
+      "speciesKey": "pteromon",
+      "name": "Pteromon",
+      "level": "Rookie",
+      "type": "Bird Dragon",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Bird Dragon",
+        "attribute": "Data"
+      },
+      "families": [
+        "Wind Guardians"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/2/27/Pteromon_b.jpg/revision/latest?cb=20240119163838",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/2/27/Pteromon_b.jpg/revision/latest?cb=20240119163838",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Pteromon",
+        "url": "https://digimon.fandom.com/wiki/Pteromon",
+        "fetchedAt": "2026-10-04T01:53:56.717Z"
+      }
+    },
+    {
+      "speciesKey": "guardromon",
+      "name": "Guardromon",
+      "level": "Champion",
+      "type": "Machine",
+      "attribute": "Virus",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Champion",
+        "type": "Machine",
+        "attribute": "Virus",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Metal Empire"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/6/68/Guardromon_b.jpg/revision/latest?cb=20161014160311",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/6/68/Guardromon_b.jpg/revision/latest?cb=20161014160311",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Guardromon",
+        "url": "https://digimon.fandom.com/wiki/Guardromon",
+        "fetchedAt": "2026-10-04T01:53:58.097Z"
+      }
+    },
+    {
+      "speciesKey": "liamon",
+      "name": "Liamon",
+      "level": "Champion",
+      "type": "Holy Beast",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Holy Beast",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/a/a2/Liamon_b.jpg/revision/latest?cb=20120305041814",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/a/a2/Liamon_b.jpg/revision/latest?cb=20120305041814",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Liamon",
+        "url": "https://digimon.fandom.com/wiki/Liamon",
+        "fetchedAt": "2026-10-04T01:53:59.381Z"
+      }
+    },
+    {
+      "speciesKey": "sunflowmon",
+      "name": "Sunflowmon",
+      "level": "Champion",
+      "type": "Vegetation",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Vegetation",
+        "attribute": "Data"
+      },
+      "families": [
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/3/30/Sunflowmon_b.jpg/revision/latest?cb=20101001040208",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/3/30/Sunflowmon_b.jpg/revision/latest?cb=20101001040208",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Sunflowmon",
+        "url": "https://digimon.fandom.com/wiki/Sunflowmon",
+        "fetchedAt": "2026-10-04T01:54:01.273Z"
+      }
+    },
+    {
+      "speciesKey": "monochromon",
+      "name": "Monochromon",
+      "level": "Champion",
+      "type": "Ankylosaur",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Ankylosaur",
+        "attribute": "Data"
+      },
+      "families": [
+        "Nature Spirits",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/d/df/Monochromon_b.jpg/revision/latest?cb=20090402005851",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/d/df/Monochromon_b.jpg/revision/latest?cb=20090402005851",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Monochromon",
+        "url": "https://digimon.fandom.com/wiki/Monochromon",
+        "fetchedAt": "2026-10-04T01:54:02.613Z"
+      }
+    },
+    {
+      "speciesKey": "gekomon",
+      "name": "Gekomon",
+      "level": "Champion",
+      "type": "Amphibian",
+      "attribute": "Virus",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Champion",
+        "type": "Amphibian",
+        "attribute": "Virus",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nature Spirits",
+        "Deep Savers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/1/1d/Gekomon_b.jpg/revision/latest?cb=20180123035700",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/1/1d/Gekomon_b.jpg/revision/latest?cb=20180123035700",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Gekomon",
+        "url": "https://digimon.fandom.com/wiki/Gekomon",
+        "fetchedAt": "2026-10-04T01:54:03.917Z"
+      }
+    },
+    {
+      "speciesKey": "zephagamon",
+      "name": "Zephagamon",
+      "level": "Mega",
+      "type": "Magic Knight",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Mega",
+        "type": "Magic Knight",
+        "attribute": "Data"
+      },
+      "families": [
+        "Wind Guardians"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/1/17/Zephagamon_b.jpg/revision/latest?cb=20240310071442",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/1/17/Zephagamon_b.jpg/revision/latest?cb=20240310071442",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Zephagamon",
+        "url": "https://digimon.fandom.com/wiki/Zephagamon",
+        "fetchedAt": "2026-10-04T01:54:05.629Z"
+      }
+    },
+    {
+      "speciesKey": "agumon",
+      "name": "Agumon",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Vaccine",
+      "attribute2": "Virus",
+      "raw": {
+        "level": "Rookie",
+        "type": "Reptile",
+        "attribute": "Vaccine",
+        "attribute2": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Virus Busters",
+        "Metal Empire",
+        "Unknown",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/6/68/Agumon_b.jpg/revision/latest?cb=20170210150934",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/6/68/Agumon_b.jpg/revision/latest?cb=20170210150934",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Agumon",
+        "url": "https://digimon.fandom.com/wiki/Agumon",
+        "fetchedAt": "2026-10-04T01:54:07.162Z"
+      }
+    },
+    {
+      "speciesKey": "gabumon",
+      "name": "Gabumon",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Data",
+      "attribute2": "Vaccine",
+      "raw": {
+        "level": "Rookie",
+        "type": "Reptile",
+        "attribute": "Data",
+        "attribute2": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits",
+        "Virus Busters",
+        "Metal Empire"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/d/d1/Gabumon_b.jpg/revision/latest?cb=20171127121438",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/d/d1/Gabumon_b.jpg/revision/latest?cb=20171127121438",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Gabumon",
+        "url": "https://digimon.fandom.com/wiki/Gabumon",
+        "fetchedAt": "2026-10-04T01:54:08.809Z"
+      }
+    },
+    {
+      "speciesKey": "biyomon",
+      "name": "Biyomon",
+      "level": "Rookie",
+      "type": "Bird",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Bird",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Nature Spirits",
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/5/5a/Biyomon_b.jpg/revision/latest?cb=20130402190039",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/5/5a/Biyomon_b.jpg/revision/latest?cb=20130402190039",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Biyomon",
+        "url": "https://digimon.fandom.com/wiki/Biyomon",
+        "fetchedAt": "2026-10-04T01:54:10.111Z"
+      }
+    },
+    {
+      "speciesKey": "paulmon",
+      "name": "Palmon",
+      "level": "Rookie",
+      "type": "Vegetation",
+      "attribute": "Data",
+      "attribute2": "Vaccine",
+      "raw": {
+        "level": "Rookie",
+        "type": "Vegetation",
+        "attribute": "Data",
+        "attribute2": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits",
+        "Wind Guardians",
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/c/c7/Palmon_b.jpg/revision/latest?cb=20130402190834",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/c/c7/Palmon_b.jpg/revision/latest?cb=20130402190834",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Palmon",
+        "url": "https://digimon.fandom.com/wiki/Palmon",
+        "fetchedAt": "2026-10-04T01:54:11.633Z",
+        "viaAlias": "El canonico es Palmon. El proyecto usa la grafia del doblaje."
+      }
+    },
+    {
+      "speciesKey": "pabumon",
+      "name": "Pabumon",
+      "level": "Fresh",
+      "type": "Slime",
+      "attribute": "None",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Fresh",
+        "type": "Slime",
+        "attribute": "None",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/2/2b/Pabumon_b.jpg/revision/latest?cb=20090819163901",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/2/2b/Pabumon_b.jpg/revision/latest?cb=20090819163901",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Pabumon",
+        "url": "https://digimon.fandom.com/wiki/Pabumon",
+        "fetchedAt": "2026-10-04T01:54:12.938Z"
+      }
+    },
+    {
+      "speciesKey": "gatomon",
+      "name": "Gatomon",
+      "level": "Champion",
+      "type": "Holy Beast",
+      "attribute": "Vaccine",
+      "attribute2": "Free",
+      "raw": {
+        "level": "Champion",
+        "type": "Holy Beast",
+        "attribute": "Vaccine",
+        "attribute2": "Free"
+      },
+      "families": [
+        "Nature Spirits",
+        "Virus Busters",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/7/7a/Gatomon_b.jpg/revision/latest?cb=20130402190852",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/7/7a/Gatomon_b.jpg/revision/latest?cb=20130402190852",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Gatomon",
+        "url": "https://digimon.fandom.com/wiki/Gatomon",
+        "fetchedAt": "2026-10-04T01:54:14.256Z"
+      }
+    },
+    {
+      "speciesKey": "guilmon",
+      "name": "Guilmon",
+      "level": "Rookie",
+      "type": "Reptile",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Reptile",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Deep Savers",
+        "Metal Empire",
+        "Dragon's Roar",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/a/a1/Guilmon_b.jpg/revision/latest?cb=20130402191207",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/a/a1/Guilmon_b.jpg/revision/latest?cb=20130402191207",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Guilmon",
+        "url": "https://digimon.fandom.com/wiki/Guilmon",
+        "fetchedAt": "2026-10-04T01:54:15.561Z"
+      }
+    },
+    {
+      "speciesKey": "goburimon",
+      "name": "Goblimon",
+      "level": "Rookie",
+      "type": "Demon",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Demon",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nightmare Soldiers",
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/5/5c/Goblimon_b.jpg/revision/latest?cb=20090704054206",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/5/5c/Goblimon_b.jpg/revision/latest?cb=20090704054206",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Goblimon",
+        "url": "https://digimon.fandom.com/wiki/Goblimon",
+        "fetchedAt": "2026-10-04T01:54:16.928Z"
+      }
+    },
+    {
+      "speciesKey": "kunemon",
+      "name": "Kunemon",
+      "level": "Rookie",
+      "type": "Larva",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Larva",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/b/b3/Kunemon_b.jpg/revision/latest?cb=20101029032704",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/b/b3/Kunemon_b.jpg/revision/latest?cb=20101029032704",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Kunemon",
+        "url": "https://digimon.fandom.com/wiki/Kunemon",
+        "fetchedAt": "2026-10-04T01:54:18.980Z"
+      }
+    },
+    {
+      "speciesKey": "betamon",
+      "name": "Betamon",
+      "level": "Rookie",
+      "type": "Amphibian",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Rookie",
+        "type": "Amphibian",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Deep Savers",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/0/03/Betamon_b.jpg/revision/latest?cb=20130402185701",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/0/03/Betamon_b.jpg/revision/latest?cb=20130402185701",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Betamon",
+        "url": "https://digimon.fandom.com/wiki/Betamon",
+        "fetchedAt": "2026-10-04T01:54:20.308Z"
+      }
+    },
+    {
+      "speciesKey": "demimeramon",
+      "name": "DemiMeramon",
+      "level": "In-Training",
+      "type": "Flame",
+      "attribute": "None",
+      "attribute2": "Data",
+      "raw": {
+        "level": "In-Training",
+        "type": "Flame",
+        "attribute": "None",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Metal Empire",
+        "Nightmare Soldiers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/e/e3/DemiMeramon_b.jpg/revision/latest?cb=20090128045033",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/e/e3/DemiMeramon_b.jpg/revision/latest?cb=20090128045033",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "DemiMeramon",
+        "url": "https://digimon.fandom.com/wiki/DemiMeramon",
+        "fetchedAt": "2026-10-04T01:54:21.657Z"
+      }
+    },
+    {
+      "speciesKey": "greymon",
+      "name": "Greymon",
+      "level": "Champion",
+      "type": "Dinosaur",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Dinosaur",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits",
+        "Metal Empire",
+        "Virus Busters",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/5/56/Greymon_b.jpg/revision/latest?cb=20170226001958",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/5/56/Greymon_b.jpg/revision/latest?cb=20170226001958",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Greymon",
+        "url": "https://digimon.fandom.com/wiki/Greymon",
+        "fetchedAt": "2026-10-04T01:54:23.039Z"
+      }
+    },
+    {
+      "speciesKey": "garurumon",
+      "name": "Garurumon",
+      "level": "Champion",
+      "type": "Beast",
+      "attribute": "Vaccine",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Champion",
+        "type": "Beast",
+        "attribute": "Vaccine",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nightmare Soldiers",
+        "Virus Busters",
+        "Metal Empire",
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/2/20/Garurumon_b.jpg/revision/latest?cb=20090205055228",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/2/20/Garurumon_b.jpg/revision/latest?cb=20090205055228",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Garurumon",
+        "url": "https://digimon.fandom.com/wiki/Garurumon",
+        "fetchedAt": "2026-10-04T01:54:24.478Z"
+      }
+    },
+    {
+      "speciesKey": "birdramon",
+      "name": "Birdramon",
+      "level": "Champion",
+      "type": "Giant Bird",
+      "attribute": "Vaccine",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Champion",
+        "type": "Giant Bird",
+        "attribute": "Vaccine",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Wind Guardians",
+        "Nature Spirits"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/8/8e/Birdramon_b.jpg/revision/latest?cb=20150410015357",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/8/8e/Birdramon_b.jpg/revision/latest?cb=20150410015357",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Birdramon",
+        "url": "https://digimon.fandom.com/wiki/Birdramon",
+        "fetchedAt": "2026-10-04T01:54:26.031Z"
+      }
+    },
+    {
+      "speciesKey": "angemon",
+      "name": "Angemon",
+      "level": "Champion",
+      "type": "Angel",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Angel",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/0/08/Angemon_b.jpg/revision/latest?cb=20130402190032",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/0/08/Angemon_b.jpg/revision/latest?cb=20130402190032",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Angemon",
+        "url": "https://digimon.fandom.com/wiki/Angemon",
+        "fetchedAt": "2026-10-04T01:54:27.643Z"
+      }
+    },
+    {
+      "speciesKey": "togemon",
+      "name": "Togemon",
+      "level": "Champion",
+      "type": "Vegetation",
+      "attribute": "Data",
+      "attribute2": "Virus",
+      "raw": {
+        "level": "Champion",
+        "type": "Vegetation",
+        "attribute": "Data",
+        "attribute2": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Wind Guardians",
+        "Jungle Troopers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/4/4d/Togemon_b.jpg/revision/latest?cb=20090205060244",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/4/4d/Togemon_b.jpg/revision/latest?cb=20090205060244",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Togemon",
+        "url": "https://digimon.fandom.com/wiki/Togemon",
+        "fetchedAt": "2026-10-04T01:54:28.963Z"
+      }
+    },
+    {
+      "speciesKey": "growlmon",
+      "name": "Growlmon",
+      "level": "Champion",
+      "type": "Dark Dragon",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Dark Dragon",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Metal Empire",
+        "Dragon's Roar",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/7/74/Growlmon_b.jpg/revision/latest?cb=20090205055501",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/7/74/Growlmon_b.jpg/revision/latest?cb=20090205055501",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Growlmon",
+        "url": "https://digimon.fandom.com/wiki/Growlmon",
+        "fetchedAt": "2026-10-04T01:54:30.532Z"
+      }
+    },
+    {
+      "speciesKey": "metalgreymon",
+      "name": "MetalGreymon (Vaccine)",
+      "level": "Ultimate",
+      "type": "Cyborg",
+      "attribute": "Vaccine",
+      "attribute2": "Virus",
+      "raw": {
+        "level": "Ultimate",
+        "type": "Cyborg",
+        "attribute": "Vaccine",
+        "attribute2": "Virus"
+      },
+      "families": [
+        "Nature Spirits",
+        "Metal Empire",
+        "Virus Busters",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/c/c4/MetalGreymon_%28Vaccine%29_b.jpg/revision/latest?cb=20120413034532",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/c/c4/MetalGreymon_%28Vaccine%29_b.jpg/revision/latest?cb=20120413034532",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "MetalGreymon (Vaccine)",
+        "url": "https://digimon.fandom.com/wiki/MetalGreymon%20(Vaccine)",
+        "fetchedAt": "2026-10-04T01:54:31.942Z",
+        "viaAlias": "La pagina base es {{disambig}}. Se elige la variante Vaccine, que es la canonica."
+      }
+    },
+    {
+      "speciesKey": "weregarurumon",
+      "name": "WereGarurumon",
+      "level": "Ultimate",
+      "type": "Beastkin",
+      "attribute": "Vaccine",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Ultimate",
+        "type": "Beastkin",
+        "attribute": "Vaccine",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nightmare Soldiers",
+        "Metal Empire",
+        "Nature Spirits",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/c/c9/WereGarurumon_b.jpg/revision/latest?cb=20090128171637",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/c/c9/WereGarurumon_b.jpg/revision/latest?cb=20090128171637",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "WereGarurumon",
+        "url": "https://digimon.fandom.com/wiki/WereGarurumon",
+        "fetchedAt": "2026-10-04T01:54:33.244Z"
+      }
+    },
+    {
+      "speciesKey": "garudamon",
+      "name": "Garudamon",
+      "level": "Ultimate",
+      "type": "Birdkin",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Birdkin",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/b/bd/Garudamon_b.jpg/revision/latest?cb=20090128164655",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/b/bd/Garudamon_b.jpg/revision/latest?cb=20090128164655",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Garudamon",
+        "url": "https://digimon.fandom.com/wiki/Garudamon",
+        "fetchedAt": "2026-10-04T01:54:34.702Z"
+      }
+    },
+    {
+      "speciesKey": "wargrowlmon",
+      "name": "WarGrowlmon",
+      "level": "Ultimate",
+      "type": "Cyborg",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Cyborg",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Metal Empire",
+        "Nature Spirits",
+        "Dragon's Roar",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/a/ab/WarGrowlmon_b.jpg/revision/latest?cb=20090128171350",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/a/ab/WarGrowlmon_b.jpg/revision/latest?cb=20090128171350",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "WarGrowlmon",
+        "url": "https://digimon.fandom.com/wiki/WarGrowlmon",
+        "fetchedAt": "2026-10-04T01:54:36.245Z"
+      }
+    },
+    {
+      "speciesKey": "holyangemon",
+      "name": "MagnaAngemon",
+      "level": "Ultimate",
+      "type": "Archangel",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Archangel",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Virus Busters",
+        "Deep Savers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/9/93/MagnaAngemon_b.jpg/revision/latest?cb=20090128165835",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/9/93/MagnaAngemon_b.jpg/revision/latest?cb=20090128165835",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "MagnaAngemon",
+        "url": "https://digimon.fandom.com/wiki/MagnaAngemon",
+        "fetchedAt": "2026-10-04T01:54:37.782Z"
+      }
+    },
+    {
+      "speciesKey": "ogremon",
+      "name": "Ogremon",
+      "level": "Champion",
+      "type": "Demon",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Champion",
+        "type": "Demon",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nightmare Soldiers",
+        "Nature Spirits",
+        "Dark Area"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/6/65/Ogremon_b.jpg/revision/latest?cb=20090205060055",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/6/65/Ogremon_b.jpg/revision/latest?cb=20090205060055",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Ogremon",
+        "url": "https://digimon.fandom.com/wiki/Ogremon",
+        "fetchedAt": "2026-10-04T01:54:39.319Z"
+      }
+    },
+    {
+      "speciesKey": "wargreymon",
+      "name": "WarGreymon",
+      "level": "Mega",
+      "type": "Warrior",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Mega",
+        "type": "Warrior",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Metal Empire",
+        "Virus Busters",
+        "Nature Spirits",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/4/49/WarGreymon_b.jpg/revision/latest?cb=20090127185540",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/4/49/WarGreymon_b.jpg/revision/latest?cb=20090127185540",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "WarGreymon",
+        "url": "https://digimon.fandom.com/wiki/WarGreymon",
+        "fetchedAt": "2026-10-04T01:54:40.859Z"
+      }
+    },
+    {
+      "speciesKey": "metalgarurumon",
+      "name": "MetalGarurumon",
+      "level": "Mega",
+      "type": "Cyborg",
+      "attribute": "Data",
+      "attribute2": "Vaccine",
+      "raw": {
+        "level": "Mega",
+        "type": "Cyborg",
+        "attribute": "Data",
+        "attribute2": "Vaccine"
+      },
+      "families": [
+        "Metal Empire",
+        "Nature Spirits",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/1/1d/MetalGarurumon_b.jpg/revision/latest?cb=20090127180250",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/1/1d/MetalGarurumon_b.jpg/revision/latest?cb=20090127180250",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "MetalGarurumon",
+        "url": "https://digimon.fandom.com/wiki/MetalGarurumon",
+        "fetchedAt": "2026-10-04T01:54:42.174Z"
+      }
+    },
+    {
+      "speciesKey": "valemon",
+      "name": "Veemon",
+      "level": "Rookie",
+      "type": "Mini Dragon",
+      "attribute": "Free",
+      "attribute2": "Vaccine",
+      "raw": {
+        "level": "Rookie",
+        "type": "Mini Dragon",
+        "attribute": "Free",
+        "attribute2": "Vaccine"
+      },
+      "families": [
+        "Nature Spirits",
+        "Metal Empire",
+        "Virus Busters",
+        "Unknown",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/1/1b/Veemon_b.jpg/revision/latest?cb=20130402185900",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/1/1b/Veemon_b.jpg/revision/latest?cb=20130402185900",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Veemon",
+        "url": "https://digimon.fandom.com/wiki/Veemon",
+        "fetchedAt": "2026-10-04T01:54:43.513Z",
+        "viaAlias": "Valemon no existe en el canonico. El proyecto probablemente queria Veemon (Kunemon/Veemon, Rookie). REVISAR: puede ser otra especie."
+      }
+    },
+    {
+      "speciesKey": "kimeramon",
+      "name": "Kimeramon",
+      "level": "Ultimate",
+      "type": "Composite",
+      "attribute": "Data",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Composite",
+        "attribute": "Data"
+      },
+      "families": [
+        "Unknown",
+        "Nightmare Soldiers",
+        "Metal Empire"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/5/5b/Kimeramon_b.jpg/revision/latest?cb=20080929152722",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/5/5b/Kimeramon_b.jpg/revision/latest?cb=20080929152722",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Kimeramon",
+        "url": "https://digimon.fandom.com/wiki/Kimeramon",
+        "fetchedAt": "2026-10-04T01:54:45.253Z"
+      }
+    },
+    {
+      "speciesKey": "magnadramon",
+      "name": "Magnadramon",
+      "level": "Mega",
+      "type": "Holy Dragon",
+      "attribute": "Vaccine",
+      "attribute2": "Free",
+      "raw": {
+        "level": "Mega",
+        "type": "Holy Dragon",
+        "attribute": "Vaccine",
+        "attribute2": "Free"
+      },
+      "families": [
+        "Nature Spirits",
+        "Dragon's Roar",
+        "Virus Busters",
+        "Unknown",
+        "Wind Guardians"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/2/2a/Magnadramon_b.jpg/revision/latest?cb=20201024181113",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/2/2a/Magnadramon_b.jpg/revision/latest?cb=20201024181113",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Magnadramon",
+        "url": "https://digimon.fandom.com/wiki/Magnadramon",
+        "fetchedAt": "2026-10-04T01:54:46.900Z"
+      }
+    },
+    {
+      "speciesKey": "groundramon",
+      "name": "Groundramon",
+      "level": "Ultimate",
+      "type": "Earth Dragon",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Earth Dragon",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/b/bc/Groundramon_b.jpg/revision/latest?cb=20090128164700",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/b/bc/Groundramon_b.jpg/revision/latest?cb=20090128164700",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Groundramon",
+        "url": "https://digimon.fandom.com/wiki/Groundramon",
+        "fetchedAt": "2026-10-04T01:54:48.247Z"
+      }
+    },
+    {
+      "speciesKey": "mastertyrannomon",
+      "name": "MasterTyrannomon",
+      "level": "Ultimate",
+      "type": "Dinosaur",
+      "attribute": "Vaccine",
+      "attribute2": "Data",
+      "raw": {
+        "level": "Ultimate",
+        "type": "Dinosaur",
+        "attribute": "Vaccine",
+        "attribute2": "Data"
+      },
+      "families": [
+        "Nature Spirits",
+        "Dragon's Roar"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/d/d8/MasterTyrannomon_b.jpg/revision/latest?cb=20130614030453",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/d/d8/MasterTyrannomon_b.jpg/revision/latest?cb=20130614030453",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "MasterTyrannomon",
+        "url": "https://digimon.fandom.com/wiki/MasterTyrannomon",
+        "fetchedAt": "2026-10-04T01:54:49.751Z"
+      }
+    },
+    {
+      "speciesKey": "skullgreymon",
+      "name": "SkullGreymon",
+      "level": "Ultimate",
+      "type": "Undead",
+      "attribute": "Virus",
+      "attribute2": null,
+      "raw": {
+        "level": "Ultimate",
+        "type": "Undead",
+        "attribute": "Virus"
+      },
+      "families": [
+        "Nightmare Soldiers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/e/e7/SkullGreymon_b.jpg/revision/latest?cb=20090128170900",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/e/e7/SkullGreymon_b.jpg/revision/latest?cb=20090128170900",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "SkullGreymon",
+        "url": "https://digimon.fandom.com/wiki/SkullGreymon",
+        "fetchedAt": "2026-10-04T01:54:51.241Z"
+      }
+    },
+    {
+      "speciesKey": "cherubimon",
+      "name": "Cherubimon (Good)",
+      "level": "Mega",
+      "type": "Cherub",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Mega",
+        "type": "Cherub",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Virus Busters",
+        "Wind Guardians"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/e/e3/Cherubimon_%28Good%29_b.jpg/revision/latest?cb=20120316042555",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/e/e3/Cherubimon_%28Good%29_b.jpg/revision/latest?cb=20120316042555",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Cherubimon (Good)",
+        "url": "https://digimon.fandom.com/wiki/Cherubimon%20(Good)",
+        "fetchedAt": "2026-10-04T01:54:52.540Z",
+        "viaAlias": "La pagina base es {{disambig}}. Se elige Good, que corresponde a atributo Vacuna del proyecto."
+      }
+    },
+    {
+      "speciesKey": "diaboromon",
+      "name": "Diaboromon",
+      "level": "Mega",
+      "type": "Unidentified",
+      "attribute": null,
+      "attribute2": "Virus",
+      "raw": {
+        "level": "Mega",
+        "type": "Unidentified",
+        "attribute": "Unidentified",
+        "attribute2": "Virus"
+      },
+      "families": [
+        "Dark Area",
+        "Nightmare Soldiers"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/d/dd/Diaboromon_b.jpg/revision/latest?cb=20081009025602",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/d/dd/Diaboromon_b.jpg/revision/latest?cb=20081009025602",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Diaboromon",
+        "url": "https://digimon.fandom.com/wiki/Diaboromon",
+        "fetchedAt": "2026-10-04T01:54:53.906Z"
+      }
+    },
+    {
+      "speciesKey": "phoenixmon",
+      "name": "Phoenixmon",
+      "level": "Mega",
+      "type": "Holy Beast",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Mega",
+        "type": "Holy Beast",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/0/0e/Phoenixmon_b.jpg/revision/latest?cb=20090127183449",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/0/0e/Phoenixmon_b.jpg/revision/latest?cb=20090127183449",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Phoenixmon",
+        "url": "https://digimon.fandom.com/wiki/Phoenixmon",
+        "fetchedAt": "2026-10-04T01:54:55.487Z"
+      }
+    },
+    {
+      "speciesKey": "seraphimon",
+      "name": "Seraphimon",
+      "level": "Mega",
+      "type": "Seraph",
+      "attribute": "Vaccine",
+      "attribute2": null,
+      "raw": {
+        "level": "Mega",
+        "type": "Seraph",
+        "attribute": "Vaccine"
+      },
+      "families": [
+        "Wind Guardians",
+        "Virus Busters"
+      ],
+      "image": {
+        "url": "https://static.wikia.nocookie.net/digimon/images/f/f9/Seraphimon_b.jpg/revision/latest?cb=20100205031651",
+        "thumbnail": "https://static.wikia.nocookie.net/digimon/images/f/f9/Seraphimon_b.jpg/revision/latest?cb=20100205031651",
+        "width": 320,
+        "height": 320,
+        "file": null,
+        "license": "non-free"
+      },
+      "provenance": {
+        "page": "Seraphimon",
+        "url": "https://digimon.fandom.com/wiki/Seraphimon",
+        "fetchedAt": "2026-10-04T01:54:57.137Z"
+      }
+    }
+  ]
+}
